@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.light{
+    background-color: white;
+    color: #111;
+}
+
+.dark{
+    background-color: rgba(7, 0, 27, 1);
+    color: #bbb;
+}
+
+.theme{
+    transition: 1s all ease;
+  }
