@@ -33,7 +33,7 @@ const Contact = () => {
                           Our Location
                         </h4>
                         <p class="text-body-color text-base">
-                          Angul, Saradhapur , pin- 759122
+                          {/* Angul, pin- 759122 */}
                         </p>
                       </Fade>
                     </div>
